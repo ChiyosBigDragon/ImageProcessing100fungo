@@ -18,9 +18,9 @@
 ここらへんは環境依存なのでうまく対応してください．<br>
 参考: [Jupyterで複数カーネルを簡単に選択するための設定 - Qiita](https://qiita.com/tomochiii/items/8b937f15c79a0c3eae0e)
 ## TODO
-- 問題64の更新を確認する．(確認: 02/01)
-- 自分で問題を解く．
-## AC表
+- 問題64の更新を確認する(最終: 02/01)
+- 自分で問題を解く(10/100)
+<!-- ## AC表
 緑色の問題は解答編にコードを載せているので実装の参考にしてください．
 <table>
     <th>問題</th>
@@ -164,4 +164,4 @@
         <td>99. 簡単な物体検出 (Step.3) Non-Maximum Suppressio</td>
         <td>100. 簡単な物体検出 (Step.4) 評価 Precision, Recall, F-score, mAP</td>
     </tr>
-<table>
+<table> -->
