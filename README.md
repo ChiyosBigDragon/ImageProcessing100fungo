@@ -1,7 +1,7 @@
 <link href=".\style.css" rel="stylesheet"></link>
 
 # 画像処理100本ノック
-画像処理100本ノック(https://github.com/yoyoyo-yo/Gasyori100knock)をJupyter Notebook上で楽しめるように移植しました．手動なので精度は知りません．多分開くとき激重です．ごめん．
+画像処理100本ノック(https://github.com/yoyoyo-yo/Gasyori100knock) をJupyter Notebook上で楽しめるように移植しました．手動なので精度は知りません．多分開くとき激重です．ごめん．
 ## やったこと
 - 全問題全画像を一つのノートで見られるようにした．
 - 本家作者の解答コードを埋め込んだ．
